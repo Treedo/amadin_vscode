@@ -1,0 +1,33 @@
+# Node modules
+node_modules/
+
+# TypeScript output
+out/
+
+# VSCode extension build output
+.vscode/
+
+# Logs
+*.log
+
+# Dependency directories
+jspm_packages/
+bower_components/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# IDE-specific files
+.idea/
+.vscode/
+
+# Build directories
+dist/
+build/
+
+# Package distribution
+*.tgz
+
+# Environment files
+.env
